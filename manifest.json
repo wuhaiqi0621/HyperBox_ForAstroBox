@@ -1,0 +1,35 @@
+{
+  "item": {
+    "name": "Hyper Box",
+    "description": "拥有20+功能的UI非常好的万用宝盒",
+    "preview": ["0.png", "1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png"],
+    "icon": "icon.png",
+    "source_url": "",
+    "author": [{
+      "name": "作者名称",
+      "author_url": "https://bandbbs.cn/members/1149120"
+    }]
+  },
+  "downloads": {
+    "o66": {
+      "version": "v1.1.1",
+      "file_name": "o66_1.1.1.rpk"
+    },
+    "o66nfc": {
+      "version": "v1.1.1",
+      "file_name": "o66_1.1.1.rpk"
+    },
+    "n67": {
+      "version": "v2.3.9",
+      "file_name": "n67_2.3.9.rpk"
+    },
+    "n66": {
+      "version": "v1.2.6",
+      "file_name": "n66_1.2.6.rpk"
+    },
+    "m67": {
+      "version": "v1.3.4",
+      "file_name": "m67_1.3.4.rpk"
+    }
+  }
+}
