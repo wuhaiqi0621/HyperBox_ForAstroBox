@@ -4,10 +4,18 @@
     "description": "拥有20+功能的UI非常好的万用宝盒",
     "preview": ["0.png", "1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png", "10.png", "11.png", "12.png"],
     "icon": "icon.png",
-    "source_url": "",
     "author": [{
-      "name": "作者名称",
-      "author_url": "https://bandbbs.cn/members/1149120"
+      "name": "Charlie_Q",
+      "author_url": "https://bandbbs.cn/members/114920"
+    },{
+      "name": "Struggle",
+      "author_url": "https://bandbbs.cn/members/101724"
+    },{
+      "name": "lst",
+      "author_url": "https://bandbbs.cn/members/76286"
+    },{
+      "name": "AurysianYan",
+      "author_url": "https://bandbbs.cn/members/718071"
     }]
   },
   "downloads": {
