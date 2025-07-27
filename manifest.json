@@ -2,7 +2,7 @@
   "item": {
     "name": "Hyper Box",
     "description": "拥有20+功能的UI非常好的万用宝盒",
-    "preview": ["pre/0.png", "pre/1.png", "pre/2.png", "pre/3.png", "pre/4.png", "pre/5.png", "pre/6.png", "pre/7.png", "pre/8.png", "pre/9.png", "pre/10.png", "pre/11.png", "pre/12.png"],
+    "preview": ["head.png", "pre/0.png", "pre/1.png", "pre/2.png", "pre/3.png", "pre/4.png", "pre/5.png", "pre/6.png", "pre/7.png", "pre/8.png", "pre/9.png", "pre/10.png", "pre/11.png", "pre/12.png"],
     "icon": "icon.png",
     "author": [{
       "name": "Charlie_Q",
