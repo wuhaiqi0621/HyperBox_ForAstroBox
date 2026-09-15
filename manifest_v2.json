@@ -94,12 +94,12 @@
     "xmb11": {
       "version": "3.0.1",
       "file_name": "downloads/com.charlie.hyperbox.release.3.0.1-xmb11.rpk",
-      "versionCode": 3001
+      "versionCode": 3010
     },
     "xmb11nfc": {
       "version": "3.0.1",
       "file_name": "downloads/com.charlie.hyperbox.release.3.0.1-xmb11nfc.rpk",
-      "versionCode": 3001
+      "versionCode": 3010
     }
   },
   "ext": {
