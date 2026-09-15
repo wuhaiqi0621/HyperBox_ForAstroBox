@@ -92,14 +92,14 @@
       "file_name": "downloads/p67_3.0.0b5.rpk"
     },
     "xmb11": {
-      "version": "3.0.0",
-      "file_name": "downloads/q66_3.0.0.rpk",
-      "versionCode": 3000
+      "version": "3.0.1",
+      "file_name": "downloads/com.charlie.hyperbox.release.3.0.1-xmb11.rpk",
+      "versionCode": 3001
     },
     "xmb11nfc": {
-      "version": "3.0.0",
-      "file_name": "downloads/q66_3.0.0.rpk",
-      "versionCode": 3000
+      "version": "3.0.1",
+      "file_name": "downloads/com.charlie.hyperbox.release.3.0.1-xmb11nfc.rpk",
+      "versionCode": 3001
     }
   },
   "ext": {
