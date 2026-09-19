@@ -60,12 +60,26 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "1.3.5",
-      "file_name": "downloads/o66_1.3.5.rpk"
+      "version": "3.0.2",
+      "file_name": "downloads/66_3.0.2-xmb10.rpk",
+      "versionCode": 3020,
+      "updatelogs": [
+        {
+          "version": "3.0.2",
+          "content": "更新到了V3版本，更精致，更好用。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.3.4",
-      "file_name": "downloads/o66_1.3.5.rpk"
+      "version": "3.0.2",
+      "file_name": "downloads/66_3.0.2-xmb10nfc.rpk",
+      "versionCode": 3020,
+      "updatelogs": [
+        {
+          "version": "3.0.2",
+          "content": "更新到了V3版本，更精致，更好用。"
+        }
+      ]
     },
     "xmb9p": {
       "version": "2.4.3",
@@ -92,14 +106,26 @@
       "file_name": "downloads/p67_3.0.0b5.rpk"
     },
     "xmb11": {
-      "version": "3.0.1",
-      "file_name": "downloads/com.charlie.hyperbox.release.3.0.1-xmb11.rpk",
-      "versionCode": 3010
+      "version": "3.0.2",
+      "file_name": "downloads/66_3.0.2-xmb11.rpk",
+      "versionCode": 3020,
+      "updatelogs": [
+        {
+          "version": "3.0.2",
+          "content": "添加了对小米手环10的一包多机支持。"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "3.0.1",
-      "file_name": "downloads/com.charlie.hyperbox.release.3.0.1-xmb11nfc.rpk",
-      "versionCode": 3010
+      "version": "3.0.2",
+      "file_name": "downloads/66_3.0.2-xmb11nfc.rpk",
+      "versionCode": 3020,
+      "updatelogs": [
+        {
+          "version": "3.0.2",
+          "content": "添加了对小米手环10的一包多机支持。"
+        }
+      ]
     }
   },
   "ext": {
